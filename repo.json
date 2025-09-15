@@ -1,7 +1,7 @@
 {
   "name": "CS3Plugs",
   "description": "A curated list of suggested plugins from different kinds of repos",
-  "iconUrl": "https://avatars.githubusercontent.com/u/91174352?v=4",
+  "iconUrl": "",
   "manifestVersion": 2,
   "pluginLists": [
     "https://raw.githubusercontent.com/justsimplyleon/cs3plugs/refs/heads/main/plugins.json"
