@@ -4,4 +4,4 @@ CS3Plugs is a repository that contains a list of plugins that work universally e
 ```All credits to the respective source providers and plugin developers. I take absolutely no credit over the development of these plugins, I have simply created a "repo" with a list of them that you can import into CS3.```
 **It is suggested to install all extensions, it's not necessary, but I suggest it :)**
 
-# [Click here to open the link in Cloudstream](https://cloudstreamrepo://raw.githubusercontent.com/justsimplyleon/cs3plugs/refs/heads/main/repo.json)
+# [Click here to import the repository in Cloudstream](https://cloudstreamrepo://raw.githubusercontent.com/justsimplyleon/cs3plugs/refs/heads/main/repo.json)
