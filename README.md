@@ -11,7 +11,7 @@
 
 [Click here to import the repository in Cloudstream](https://intradeus.github.io/http-protocol-redirector/?r=cloudstreamrepo://raw.githubusercontent.com/justsimplyleon/cs3plugs/refs/heads/main/repo.json)
 
-or
+**or**
 
 Copy [This URL](https//raw.githubusercontent.com/justsimplyleon/cs3plugs/refs/heads/main/repo.json) and paste it into the "repository url" in the import extension of the extensions page in the app.
 
