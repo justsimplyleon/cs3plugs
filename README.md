@@ -1,4 +1,4 @@
-# CS3Plugs: A Curated List of Cloudstream 3 Plugins That Mostly Work
+# CS3Plugs: A curated list of CS3 plugins that just work
 
 **CS3Plugs** is a repository that contains a collection of plugins compatible with [Cloudstream 3](https://github.com/recloudstream/cloudstream). Most of these plugins work universally, especially when using the built-in DNS within Cloudstream. However, many should function correctly even without it.
 
