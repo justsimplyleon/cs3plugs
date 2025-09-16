@@ -30,3 +30,13 @@ It is **recommended** to install all extensions. It's not required, but all of t
 | CineStream            | [SaurabhKaperwan/CSX](https://github.com/SaurabhKaperwan/CSX)                     |
 | AnimeKai              | [phisher98/cloudstream-extensions-phisher](https://github.com/phisher98/cloudstream-extensions-phisher) |
 | Watch32               | [ycngmn/CuxPlug](https://github.com/ycngmn/CuxPlug)                               |
+---
+
+## ⚠️ DMCA Notice
+
+These extensions function similarly to a regular web browser — they simply fetch video files from the internet. They do **not** violate the provisions of the **Digital Millennium Copyright Act (DMCA)**.
+
+The content accessed through these extensions is **not hosted by this repository** or by the **CloudStream3 application**, but by third-party websites that the extensions interact with in an automated way.
+
+It is the **sole responsibility of the user** to comply with the laws of their country or state. If you believe that any content violates intellectual property rights, please contact the **actual file hosts**, **not** the owners of this repository or the CloudStream3 developers.
+
