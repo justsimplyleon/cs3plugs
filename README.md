@@ -14,6 +14,7 @@
 **or**
 
 Copy [This URL](https://raw.githubusercontent.com/justsimplyleon/cs3plugs/refs/heads/main/repo.json) and paste it into the "repository url" in the import extension of the extensions page in the app.
+This repository will also not be having a shortcode made for it, I won't be making a pull request to get it done either and would like for anyone else not to request for it either.
 
 ---
 
